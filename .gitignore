@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+.wdm/
+
+# IDE
+.vscode/
+.traecn/
+
+# Data
+*.dat
+*.zip
+
+*.log
